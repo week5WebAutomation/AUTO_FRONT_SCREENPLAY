@@ -1,8 +1,10 @@
+package com.pedidos.stepdefinitions.hooks;
+
 import io.cucumber.java.Before;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
-public class ScenarioSetupHook {
+public class Hook {
 
     @Before
     public void iniciarEscenario() {
