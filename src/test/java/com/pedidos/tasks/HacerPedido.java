@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 import net.serenitybdd.screenplay.targets.Target;
-import net.thucydides.core.annotations.Step;
+import net.serenitybdd.annotations.Step;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
