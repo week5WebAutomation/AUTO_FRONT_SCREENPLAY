@@ -77,7 +77,7 @@ Si no tienes Docker Desktop instalado, puedes usar Docker Compose desde la líne
 
 ### Levantamiento del frontend (independiente)
 
-Entra a la carpeta del frontend y corre el proyecto
+En el repositorio de Diagnostico-Semana0 Entra a la carpeta del frontend y corre el proyecto
 
 ```bash
 cd Frontend
